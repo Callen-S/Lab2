@@ -1,0 +1,13 @@
+{
+  "name": "your-electron-app",
+  "version": "1.0.0",
+  "description": "Your Electron Application Description",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"no test westy\" && exit 1"
+  },
+  "dependencies": {
+    "electron": "^29.0.1"
+  }
+}
